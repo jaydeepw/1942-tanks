@@ -5,6 +5,9 @@ I dont have plans to work on this game anymore as it was just for the learning p
 However, you can clone this game, add features, fix issues and release as your own game
 as long as your work abides by the MIT license terms and conditions given in this repo.
 
+## Setup
+- Clone the repository or alternative download it
+- Launch `Main.html` in the browser
 
 ## Game Screenshots
 
